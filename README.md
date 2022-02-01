@@ -16,19 +16,26 @@ Here are some ideas to get you started:
 -->
 
 ### Work experience        
-(21.03 ~ 21.06) 한양대학교 빅데이터 애널리틱스 학부연구생 (3개월)    
-(21.06 ~ 21.12) KG제로인 주식,레이팅팀 (6개월)    
-(22.01 ~ ing) FBA_quant  https://www.fbaquant.com/members    
+-(21.03 ~ 21.06) 한양대학교 빅데이터 애널리틱스 학부연구생 (3개월)    
+-(21.06 ~ 21.12) KG제로인 주식,레이팅팀 (6개월)    
+-(22.01 ~ ing) FBA_quant  https://www.fbaquant.com/members    
 
 ### Certificate         
-CCA(신용분석사)    
-SQLD( sql 개발자)     
-Adsp(데이터분석준전문가)    
+- CCA(신용분석사)    
+- SQLD( sql 개발자)     
+- Adsp(데이터분석준전문가)    
 
 ### Skill         
-Python    
-SQL(Oracle)    
-AWS    
+- Python    
+- SQL(Oracle)    
+- AWS    
 
-### Interest
-- data Analytics
+### Interest     
+- data Analytics        
+- Quant     
+
+### Awards     
+- 2017 공학대학 학술제 (데이터 마이닝학회)     
+- 기업분석공모전     
+- 캡스톤디자인 3위 (와디즈 보상형 크라우드 펀딩 보상 예측 서비스)     
+
