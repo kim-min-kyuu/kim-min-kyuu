@@ -1,4 +1,4 @@
-### Hi there 👋
+### 김민규 minkyu kim 👋
 
 <!--
 **kim-min-kyuu/kim-min-kyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
