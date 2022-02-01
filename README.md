@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 (21.06 ~ 21.12) KG제로인 주식,레이팅팀 (6개월)    
 (22.01 ~ ing) FBA_quant  https://www.fbaquant.com/members    
 
-### certificate         
+### Certificate         
 CCA(신용분석사)    
 SQLD( sql 개발자)     
 Adsp(데이터분석준전문가)    
 
-### skill         
+### Skill         
 Python    
 SQL(Oracle)    
 AWS    
+
+### Interest
+- data Analytics
