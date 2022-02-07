@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Work experience             
-- (22.01 ~ ing) FBA_quant  (https://www.fbaquant.com/members)    
+- (22.01 ~ ing) [FBA_quant](https://www.fbaquant.com/members)
 - (21.06 ~ 21.12) KG제로인 주식,레이팅팀 (6개월) 
 - (21.03 ~ 21.06) 한양대학교 빅데이터 애널리틱스 학부연구생 (3개월) 
 
