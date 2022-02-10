@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Skill         
 - Python    
+- C++
 - SQL(Oracle)    
 - AWS    
 
