@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 - 기업분석공모전 (QUANT)
 - 캡스톤디자인 3위 (와디즈 보상형 크라우드 펀딩 보상 예측 서비스)   
 
-### project 
+
 
